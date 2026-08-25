@@ -1,0 +1,6 @@
+# Visual Studio / SSMS temporary files
+.vs/
+*.user
+*.suo
+bin/
+obj/
