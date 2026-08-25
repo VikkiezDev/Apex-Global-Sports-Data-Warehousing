@@ -88,3 +88,4 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+- That .slnx file is a solution file created automatically by SSMS (or Visual Studio) to manage your SQL scripts, connections, and project settings.
