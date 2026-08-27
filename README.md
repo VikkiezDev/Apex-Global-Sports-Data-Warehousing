@@ -1,4 +1,6 @@
-# Data Warehouse and Analytics Project
+# Apex Global Sports Data Warehousing
+
+Apex Global Sports is a fictional multi-regional retailer specializing in bicycles, cycling components, and outdoor accessories. This project integrates data from their legacy CRM (sales transactions and product metadata) and ERP (customer demographics and regional logistics) systems into a centralized Data Warehouse using a Star Schema model.
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
