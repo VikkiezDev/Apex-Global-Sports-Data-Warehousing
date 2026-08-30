@@ -15,7 +15,7 @@ select
     la.cntry as country,
     ci.cst_marital_status as marital_status,
     case 
-        when ci.cst_gndr != 'Unkonwn' then ci.cst_gndr -- CRM is the primary source for gender
+        when ci.cst_gndr != 'Unknown' then ci.cst_gndr -- CRM is the primary source for gender
         else coalesce(ca.gen, 'Unknown')  			   -- Fallback to ERP data
     end as gender,
     ca.bdate as birthdate,
